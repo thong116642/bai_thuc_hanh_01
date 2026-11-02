@@ -1,4 +1,4 @@
-# Bai_01_chuyen_ma_nguon_sang_so_do_khoi
+# Bai_01_Giai_phuong_trinh_bac_2
 
 ##1.De bai:Ve so do khoi giai phuong trinh bac 2.
 
